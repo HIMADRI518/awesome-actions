@@ -1,3 +1,4 @@
+
 # awesome-actions
 
 Awesome actions is a repository template that comes with pre-configured GitHub Actions that
